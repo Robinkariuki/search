@@ -17,7 +17,7 @@ export class ProfileService {
   private clientsecret = '';
   constructor(private http: Http) {
     console.log("service is good to go!");
-    this.username = "Pixel-0";
+    this.username = "Robinkariuki";
   }
 
   getProfileInfo() {
