@@ -2,8 +2,8 @@
 
 #### By Robin kariuki
 
-
-
+## Description
+This is a web app where you can search for users by their names and find their repositories and their information and contact details if posted.
 
 
 ## Setup/Installation Requirements
