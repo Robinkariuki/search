@@ -21,9 +21,8 @@ This is a web app where you can search for users by their names and find their r
 - Javascrpt
 - Angular js
 
-## Build
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
+##Link to live site
+https://robinkariuki.github.io/search/
 
 ## Running end-to-end tests
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
