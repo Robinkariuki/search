@@ -1,4 +1,4 @@
-# ghSearch
+# Github-Search
 
 #### By Robin kariuki
 
