@@ -14,7 +14,7 @@ This is a web app where you can search for users by their names and find their r
 - open terminal
 - run "ng serve -o" to open the application in your localhost
 
-## Technologies Published
+## Technologies Used
 - HTML
 - CSS
 - Bootstrap
@@ -24,11 +24,10 @@ This is a web app where you can search for users by their names and find their r
 ##Link to live site
 https://robinkariuki.github.io/search/
 
-## Running end-to-end tests
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
 
 ## For help
-For any user support, contact saramunini11@gmail.com
+For any user support, contact robinkariuki@gmail.com
 
 ## License
 Copyright (c) {2019} Sara Munini Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
