@@ -20,7 +20,7 @@ This is a web app where you can search for users by their names and find their r
 - Javascrpt
 - Angular js
 
-##Link to live site
+## Link to live site
 https://robinkariuki.github.io/search/
 
 
