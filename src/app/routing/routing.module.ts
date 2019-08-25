@@ -1,14 +1,14 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-import {RouterModule,Routes} from "@angular/router"
+import {RouterModule, Routes} from "@angular/router"
 // import {LandComponent} from "../home/home.component";
 // import {UserComponent} from "../profile/profile.component"
 
-const routes:Routes = [
+const routes: Routes = [
 //  {path:"Profile",component:ProfileComponent},
 //  {path:"user",component:UserComponent},
-{path:"",redirectTo:"/land",pathMatch:"full"},
+{path: "", redirectTo: "/land", pathMatch: "full"},
 ]
 @NgModule({
 imports: [
@@ -16,6 +16,6 @@ imports: [
   RouterModule.forRoot(routes)
 ],
 declarations: [],
-exports:[RouterModule]
+exports: [RouterModule]
 })
 export class RoutingModule { }
