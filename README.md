@@ -1,15 +1,10 @@
 # ghSearch
 
-#### By Sara Munini
+#### By Robin kariuki
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
-## BDD
-This application enables the the user to input their favorite user's account name on github and search for it.
-- Type in the username.
-- The user automatically appears if it's correct.
-- Allows them to access their repositories too.
-- Allows users to view the number of repositories, number of people they follow and following them back.
+
+
 
 ## Setup/Installation Requirements
 - Open your terminal
