@@ -9,8 +9,8 @@ import { Repo } from '../repo';
   providedIn: 'root'
 })
 export class ProfileService {
-  user:User;
-  repo:Repo;
+  user: User;
+  repo: Repo;
 
   private username: string;
   private clientid = 'e0e67dc5e2bfc4ebe060';
