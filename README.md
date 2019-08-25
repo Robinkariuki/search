@@ -18,7 +18,7 @@ This is a web app where you can search for users by their names and find their r
 - CSS
 - Bootstrap
 - Javascrpt
-- Angular js
+- Angular 
 
 ## Link to live site
 https://robinkariuki.github.io/search/
