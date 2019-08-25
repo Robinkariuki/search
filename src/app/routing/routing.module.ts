@@ -9,7 +9,7 @@ const routes: Routes = [
 //  {path:"Profile",component:ProfileComponent},
 //  {path:"user",component:UserComponent},
 {path: "", redirectTo: "/land", pathMatch: "full"},
-]
+];
 @NgModule({
 imports: [
   CommonModule,
