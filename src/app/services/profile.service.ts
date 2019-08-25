@@ -13,8 +13,8 @@ export class ProfileService {
   repo:Repo;
 
   private username: string;
-  private clientid = '';
-  private clientsecret = '';
+  private clientid = 'e0e67dc5e2bfc4ebe060';
+  private clientsecret = 'cb59010587837d665ecc1bb6288d11b2ec56b9bb';
   constructor(private http: Http) {
     console.log("service is good to go!");
     this.username = "Robinkariuki";
